@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Science Master's student at TU Munich interested in Computer Vision, Graphics and Deep Learning.
+I'm a PhD Student at the Visual Computing & AI Lab at TU Munich, interested in Computer Vision, Graphics, and Deep Learning.
 
 <!--
 **jonathsch/jonathsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
